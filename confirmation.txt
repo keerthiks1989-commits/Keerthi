@@ -1,0 +1,38 @@
+As part of the Retention Dashboard design, we would like to seek your confirmation on a few items to ensure the dashboard calculations and reporting align with the business expectations.
+
+1. Reporting Level for Dashboard Metrics
+
+Could you please confirm whether the retention dashboard metrics should be calculated and presented at the Account level or aggregated to the Member level?
+
+Our current understanding is that the retention calculations, including churn probability, are performed at the Account level. However, a single member can have multiple accounts, while CSAT and NPS survey responses are available at the Member level.
+
+Because of this difference in the reporting grain, we would like to understand how you would like these metrics to be represented within the dashboard.
+
+2. Member-Level Aggregation (if required)
+
+If the dashboard is expected to report at the Member level, could you please confirm the preferred aggregation approach for the following:
+
+Churn Probability (for example, Maximum, Average, or another business rule)
+Total FUM across all member accounts
+Primary churn driver (for example, from the highest-risk account)
+CSAT and NPS representation at the member level
+
+This confirmation will help ensure that all metrics are calculated consistently and accurately.
+
+3. Proposed Approach for CSAT & NPS
+
+Since CSAT and NPS are currently captured at the Member level and are not directly aligned with the Account-level retention calculations, our proposed approach is to:
+
+Display CSAT and NPS as static KPI cards
+Show only the previous quarter's results
+Keep these metrics independent of the dashboard filters and retention calculations
+
+This approach allows us to provide customer sentiment information while avoiding any ambiguity caused by the different reporting levels.
+
+Could you please review the above and let us know if this approach aligns with the business expectations? Your confirmation will help us finalize the dashboard design and metric calculations.
+
+Thank you.
+
+Kind Regards,
+
+Keerthi KS
