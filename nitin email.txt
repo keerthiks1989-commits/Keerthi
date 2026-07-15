@@ -1,0 +1,15 @@
+Hi Nitin,
+
+Thank you for your email.
+
+As part of the Behavioural Metrics and Retention Dashboard redesign, we would like to understand how the data is linked across Salesforce, Superb, and Sonata.
+
+Could you please share the data mapping (or data lineage) between these systems, including the key entities and fields used to establish the relationships? This will help us:
+
+Understand how behavioural metrics from Salesforce can be associated with member and retention data in Superb and Sonata.
+Identify the common keys and relationships between the three systems.
+Redesign the Behavioural Metrics and Retention dashboards with the appropriate data model and ensure the metrics are linked correctly.
+
+If there is any existing mapping document, ER diagram, or integration documentation that explains these relationships, kindly share it with us before the meeting. This will help us come prepared and make the discussion more productive.
+
+Looking forward to your response.
