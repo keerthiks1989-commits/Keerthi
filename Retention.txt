@@ -1,0 +1,47 @@
+Business Questions for Dashboard Redesign & Data Mapping
+1. Data Mapping
+Can you please share the complete data mapping document between Salesforce, SuperB, and Sonata?
+Which fields are the common keys used to link records across these three systems?
+Are there any transformation rules or business logic applied while moving data between these systems?
+2. Behavioral Metrics
+Which behavioral metrics are expected to be included in the Behavioral Dashboard?
+Which source system contains each behavioral metric (Salesforce, SuperB, or Sonata)?
+How should each behavioral metric be linked to member retention?
+3. Retention Linkage
+We were unable to identify a direct linkage between the Behavioral Dashboard metrics and the Retention Dashboard. Could you please clarify:
+Which behavioral metrics influence retention?
+Is there any business rule or model that establishes this relationship?
+Is there any existing document describing this linkage?
+4. Dashboard Scope
+Should the dashboards be designed at Member Level or Account Level?
+Should the Behavioral Dashboard and Retention Dashboard be connected through common filters and drill-through?
+Are there any metrics that should remain independent of filters?
+5. KPI Calculations
+Could you please provide the business definitions and calculation logic for each KPI?
+Are there any existing SQL queries or calculation documents available?
+Which metrics are calculated in the source systems and which are expected to be calculated in Power BI?
+6. Data Availability
+Are all the required fields available in the current data sources?
+If not, which additional tables or columns will be provided?
+Is historical data available for trend analysis?
+7. Refresh & Validation
+What is the expected data refresh frequency?
+Who will validate the KPI calculations and dashboard outputs before sign-off?
+8. Reporting Requirements
+Are there any mandatory drill-through reports required?
+Should the dashboards support export functionality?
+Are there any security or row-level access requirements?
+9. Previous Discussion (CSAT/NPS)
+Can you confirm whether CSAT and NPS should be displayed as static KPI cards showing only the previous quarter's results and remain independent of the retention calculations?
+Key Open Items Requiring Business Confirmation
+Data mapping between Salesforce, SuperB, and Sonata.
+Linkage between Behavioral metrics and Retention metrics.
+Source system for each KPI.
+Business calculation logic for KPIs.
+Member-level vs Account-level reporting.
+Common keys for joining data.
+Availability of historical data.
+Dashboard scope and drill-through requirements.
+Refresh frequency and validation process.
+
+This should serve as a comprehensive questionnaire for the business before proceeding with the dashboard redesign.
