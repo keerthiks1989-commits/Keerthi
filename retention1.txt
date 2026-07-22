@@ -1,0 +1,25 @@
+Retention & Behavioral Dashboard Linkage
+
+The Behavioral Metrics Dashboard is one of the 10 agreed KPI dashboards. However, As discussed, the Behavioral Metrics Dashboard is being developed as a separate dashboard. Currently, no validated data linkage exists between member behavioral events and retention outcomes. Integration will be considered once the required data model, reporting methodology, and business-approved behavioral signals are finalized. Until then, development will continue independently for the Retention Dashboard.
+
+At present, we are unable to establish a reliable linkage between the Retention Dashboard and the Behavioral Metrics Dashboard due to the absence of a common data model and measurable relationship between behavioral events and retention outcomes.
+
+Objective
+
+The long-term objective is to enrich the Retention Dashboard with member behavioral signals (such as digital logins, helpline interactions, financial advice engagement, and withdrawal activities) to determine whether these behaviors influence member retention. This would support the identification of at-risk members and enable targeted retention strategies.
+
+Current Gaps / Dependencies
+
+To achieve this objective, the following are required:
+
+A reliable data linkage between behavioral events and retention outcomes.
+Expanded behavioral data beyond the current Data Warehouse coverage.
+Agreed reporting methodology and report specifications for behavioral-retention analysis.
+Business confirmation on the behavioral signals to be included (e.g., logins, helpline calls, financial advice interactions, lump sum withdrawals, third-party authority activities, etc.) and their implementation priority.
+
+Current Status
+
+Until the above dependencies are addressed, the focus will remain on delivering the Retention Dashboard independently. The integration between the Retention and Behavioral dashboards will be revisited once the required data, methodology, and business requirements are finalized.
+
+If this is for a Steering Committee / RAID log, an even shorter version would be:
+
